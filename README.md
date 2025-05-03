@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rymurr-signal-mcp-badge.png)](https://mseep.ai/app/rymurr-signal-mcp)
+
 # Signal MCP
 
 An [MCP](https://github.com/mcp-signal/mcp) integration for [signal-cli](https://github.com/AsamK/signal-cli) that allows AI agents to send and receive Signal messages.
